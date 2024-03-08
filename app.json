@@ -13,10 +13,10 @@
         "media",
         "bot"
     ],
-    "repository": "https://github.com/FilmBee/biisal-file-stream-pro/",
+    "repository": "https://github.com/FilmBee/eithon-file-stream-pro",
     "success_url": "/",
     "logo": "https://telegra.ph/file/7a9e0bec1ada6f63be49f.jpg",
-    "website": "https://t.me?DevEithon",
+    "website": "https://t.me/DevEithon",
     "env": {
         "ENV": {
             "description": "Set this to True if you don't want to crash the bot",

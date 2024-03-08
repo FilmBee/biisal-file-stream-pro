@@ -1,6 +1,6 @@
 {
-    "name": "biisal",
-    "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @biisal",
+    "name": "deveithon",
+    "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @deveithon",
     "keywords": [
         "telegram",
         "stream",
@@ -13,10 +13,10 @@
         "media",
         "bot"
     ],
-    "repository": "https://github.com/biisal/biisal-file-stream-pro/",
+    "repository": "https://github.com/FilmBee/biisal-file-stream-pro/",
     "success_url": "/",
-    "logo": "https://i.postimg.cc/jjgVnXrV/20231106-110427.png",
-    "website": "https://biisal.github.io/biisal",
+    "logo": "https://telegra.ph/file/7a9e0bec1ada6f63be49f.jpg",
+    "website": "https://t.me?DevEithon",
     "env": {
         "ENV": {
             "description": "Set this to True if you don't want to crash the bot",
@@ -60,7 +60,7 @@
             "required": false
         },
         "OWNER_USERNAME": {
-            "description": "Enter your username without @  example  biisal."
+            "description": "Enter your username without @  example  deveithon."
         },
         "SLEEP_THRESHOLD": {
             "description": "Floodwait Sleep timer. Read the readme for more info about this var",
@@ -110,7 +110,7 @@
     "formation": {
         "web": {
             "quantity": 1,
-            "size": "eco"
+            "size": "basic"
         }
     }
 }
